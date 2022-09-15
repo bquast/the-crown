@@ -6,6 +6,9 @@ Elizabeth II
 
 Charly
 
+* William
+* Harry
+
 ### Duke of Cambridge
 
 Billy
